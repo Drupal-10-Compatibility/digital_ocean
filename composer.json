@@ -123,6 +123,9 @@
             "drupal/core": "-p2"
         },
         "patches": {
+            "drupal/digital_ocean": {
+                "Coding Standards": "patches/coding-standards.patch"
+            }
         }
     },
     "scripts": {
